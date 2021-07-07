@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rohitsamanta8371
+- 👋 Hi, I’m Rohit Samanta
 - 👀 I’m interested in Python, Java, SQL
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me 8371058157
+- 📫 How to reach me 8371058157,rohitsamanta8371@gmail.com
 
 <!---
 rohitsamanta8371/rohitsamanta8371 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
